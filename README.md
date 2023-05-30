@@ -14,3 +14,7 @@ the main questions they’d like to answer:
 ● Where are customers with a high lifetime value based?
 
 ● Do sales figures vary between geographic regions?
+
+Each file contains code ran throughout this Analysis.
+
+For a final overview, please refer to 'Rockbuster Presentation'
